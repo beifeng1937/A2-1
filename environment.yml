@@ -8,7 +8,6 @@ dependencies:
     - statistics
     - matplotlib
     - pandas
-    - random
     - math
     - time
     - os
