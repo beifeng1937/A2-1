@@ -1,5 +1,8 @@
 dependencies:
   - python=3
+  - math
+  - time
+  - os
   - pip:
     - torchvision
     - ipykernel
