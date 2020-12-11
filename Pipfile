@@ -4,14 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-spacy = "*"
+torchvision = "*"
 ipykernel = "*"
-scipy = "*"
+torch = "*"
 numpy = "*"
-scikit-learn = "*"
+statistics = "*"
 matplotlib = "*"
 pandas = "*"
-thinc = "*"
+random = "*"
+math = "*"
+time = "*"
+os = "*"
 
 [dev-packages]
 
