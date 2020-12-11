@@ -11,9 +11,7 @@ numpy = "*"
 statistics = "*"
 matplotlib = "*"
 pandas = "*"
-math = "*"
-time = "*"
-os = "*"
+
 
 [dev-packages]
 
