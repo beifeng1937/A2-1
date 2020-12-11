@@ -1,11 +1,14 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
+    - torchvision
     - ipykernel
-    - scipy
+    - torch
     - numpy
-    - scikit-learn
+    - statistics
     - matplotlib
     - pandas
-    - thinc
+    - random
+    - math
+    - time
+    - os
